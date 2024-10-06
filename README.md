@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java DSA, Python**
 
-- 👯 I’m looking to collaborate on **projects with web development.**
-
 - 🙌I'm well versed in **HTML, CSS, JS**
 
 - 💬 Ask me about **the things you face difficulties, may i help you with them.**
