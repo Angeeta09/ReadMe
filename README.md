@@ -1,15 +1,14 @@
-<h1 align="center">Hi There!👋, I'm Angeeta Mandal</h1>
-<h3 align="center">A passionate Computer Engineering Student from India</h3>
+<h1 align="center">Hi, I'm Angeeta Mandal 👋</h1>
+<h3 align="center">
 
-- 🔭 I’m currently working on **developing my coding skills.**
+Computer Engineering graduate (2025) building applied ML and full-stack systems — from a published computer-vision research project to healthcare and NLP applications.
 
-- 🌱 I’m currently learning **Java DSA, Python**
-
-- 🙌I'm well versed in **HTML, CSS, JS**
-
-- 💬 Ask me about **the things you face difficulties, may i help you with them.**
-
-- 📫 How to reach me **mandalangeeta@gmail.com**
+🔬 Published researcher: real-time face recognition system (DOI: 10.48175/568, Nov 2023)
+🩺 Building AvaCare, a personalized medical recommendation system (Flask + ML)
+🐍 Core stack: Python, Java, SQL · Flask, Django, OpenCV, Scikit-learn, Pandas, NumPy
+🗄️ Databases: MySQL, MongoDB
+🌱 Currently sharpening: cloud deployment, CI/CD, and DSA in Java
+📫 Reach me: mandalangeeta@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
